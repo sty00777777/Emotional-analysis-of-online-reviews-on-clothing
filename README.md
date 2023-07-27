@@ -1,0 +1,4 @@
+- HW_yyx_latex文件夹中包含所有与latex相关的内容，图片也在内，其中sample.tex是论文的tex
+- 数据名为data.csv
+- 代码名为code.ipynb，是notebook文件
+- 论文名为 基于电商平台的女装在线评论数据挖掘及情感分析.pdf
